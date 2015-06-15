@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel">No</string>
+    <string name="yes">Yes</string>
+    <string name="starting">Starting…</string>
+    <string name="hello_world">Hello !</string>
+    <string name="dialog_exit_title">TP1</string>
+    <string name="dialog_exit_msg">Do you really want to exit?</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="action_exit">Exit</string>
+</resources>

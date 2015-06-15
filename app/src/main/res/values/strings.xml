@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name" translatable="false">TP1</string>
+
+    <string name="hello_world">Bonjour à tous !</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="starting">Démarrage…</string>
+    <string name="action_exit">Sortir</string>
+    <string name="dialog_exit_msg">Voulez-vous vraiment quitter l\'application ?</string>
+    <string name="yes">Oui</string>
+    <string name="cancel">Non</string>
+
+    <string name="dialog_exit_title">TP1</string>
+    <string name="langueFr" translatable="false">FR</string>
+    <string name="langue_en" translatable="false">EN</string>
+</resources>
